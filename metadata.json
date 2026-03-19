@@ -1,0 +1,5 @@
+{
+  "name": "BeatWeaver Studio",
+  "description": "A basic music generation studio with multiple instrument tracks and a step sequencer.",
+  "requestFramePermissions": []
+}
